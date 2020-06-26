@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi.Domain/PROJECT.Net-Core-WebApi.Domain.csproj": {}
+  },
+  "projects": {
+    "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi.Domain/PROJECT.Net-Core-WebApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi.Domain/PROJECT.Net-Core-WebApi.Domain.csproj",
+        "projectName": "PROJECT.Net-Core-WebApi.Domain",
+        "projectPath": "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi.Domain/PROJECT.Net-Core-WebApi.Domain.csproj",
+        "packagesPath": "/home/mrrobot/.nuget/packages/",
+        "outputPath": "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mrrobot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/home/mrrobot/Desktop/projetos-fullbar/Fullbar/fbr.fullbar.library.dlls/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
