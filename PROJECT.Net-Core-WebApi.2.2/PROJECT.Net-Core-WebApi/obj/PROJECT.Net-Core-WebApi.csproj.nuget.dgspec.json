@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi/PROJECT.Net-Core-WebApi.csproj": {}
+  },
+  "projects": {
+    "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi/PROJECT.Net-Core-WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi/PROJECT.Net-Core-WebApi.csproj",
+        "projectName": "PROJECT.Net-Core-WebApi",
+        "projectPath": "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi/PROJECT.Net-Core-WebApi.csproj",
+        "packagesPath": "/home/mrrobot/.nuget/packages/",
+        "outputPath": "/home/mrrobot/Desktop/meus-projetos/BASE.Bases-Projects/PROJECT.Net-Core-WebApi.2.2/PROJECT.Net-Core-WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mrrobot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "/home/mrrobot/Desktop/projetos-fullbar/Fullbar/fbr.fullbar.library.dlls/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
