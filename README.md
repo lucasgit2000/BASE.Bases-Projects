@@ -1,2 +1,2 @@
 # BASE.Bases-Projects
-Any language project initial start
+Any language project start architecture
